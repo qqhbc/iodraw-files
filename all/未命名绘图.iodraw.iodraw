@@ -175,6 +175,9 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-85" value="配置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="670" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-86" value="第三方服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
