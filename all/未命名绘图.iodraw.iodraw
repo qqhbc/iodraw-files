@@ -130,6 +130,27 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-51" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;订单服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-46">
           <mxGeometry x="25" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="430" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-60" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+          <mxGeometry width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-61" value="课程服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+          <mxGeometry x="16.25" y="40" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-62" value="考试服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+          <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-63" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;认证服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+          <mxGeometry x="75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-64" value="能力认证服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+          <mxGeometry x="112.5" y="40" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-65" value="语言认证服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+          <mxGeometry x="112.5" y="80" width="87.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
