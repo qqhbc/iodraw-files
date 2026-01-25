@@ -152,7 +152,7 @@
           <mxGeometry x="260" y="425" width="220" height="195" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-61" value="行程服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="465" width="87.5" height="30" as="geometry" />
+          <mxGeometry x="276.25" y="550" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-62" value="任务服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="276.25" y="505" width="87.5" height="30" as="geometry" />
