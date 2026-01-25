@@ -59,7 +59,7 @@
           <mxGeometry x="560" y="10" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="77.5" y="465" width="220" height="130" as="geometry" />
+          <mxGeometry x="330" y="265" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-29" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-38">
           <mxGeometry width="220" height="130" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-32" value="考试服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-38">
           <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="h6IWdR9SwTmDuoFh55dG-38" source="h6IWdR9SwTmDuoFh55dG-33" target="h6IWdR9SwTmDuoFh55dG-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-33" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;认证服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-38">
           <mxGeometry x="75" width="70" height="30" as="geometry" />
@@ -131,7 +134,7 @@
           <mxGeometry x="16.25" y="85" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="220" height="160" as="geometry" />
+          <mxGeometry x="77.5" y="250" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-20" value="入驻服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106.25" y="290" width="87.5" height="30" as="geometry" />
