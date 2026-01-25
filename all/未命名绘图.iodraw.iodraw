@@ -79,7 +79,7 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-28">
           <mxGeometry width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-30" value="入驻服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-28">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-30" value="认证服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-28">
           <mxGeometry x="16.25" y="40" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-31" value="审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-28">
