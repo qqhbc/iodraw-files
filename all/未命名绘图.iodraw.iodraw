@@ -166,6 +166,12 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-82" value="消息通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="670" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-83" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-84" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
