@@ -32,7 +32,7 @@
           <mxGeometry x="50" y="140" width="650" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-12" value="API网关层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="140" width="80" height="30" as="geometry" />
+          <mxGeometry x="700" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-13" value="服务路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="85" height="30" as="geometry" />
@@ -41,16 +41,16 @@
           <mxGeometry x="170" y="150" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-15" value="流量控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="145" width="85" height="30" as="geometry" />
+          <mxGeometry x="390" y="150" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-16" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-17" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="145" width="85" height="30" as="geometry" />
+          <mxGeometry x="500" y="150" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-18" value="服务保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="145" width="85" height="30" as="geometry" />
+          <mxGeometry x="610" y="150" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
