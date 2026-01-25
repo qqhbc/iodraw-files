@@ -37,8 +37,8 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-13" value="服务路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="210" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-14" value="服务路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="220" width="85" height="30" as="geometry" />
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-14" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
