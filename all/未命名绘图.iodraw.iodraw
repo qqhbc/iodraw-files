@@ -118,9 +118,6 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-46">
           <mxGeometry width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-48" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-46">
-          <mxGeometry x="16.25" y="40" width="87.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-49" value="匹配服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-46">
           <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
         </mxCell>
@@ -165,6 +162,9 @@
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-65" value="任务审核服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="580" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-48" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276.25" y="470" width="87.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
