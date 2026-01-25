@@ -223,10 +223,10 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-102" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-100">
           <mxGeometry x="10" y="10" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-103" value="缓存组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-100">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-103" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-100">
           <mxGeometry x="120" y="10" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-104" value="搜索组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-100">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-104" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-100">
           <mxGeometry x="230" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-105" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-100">
