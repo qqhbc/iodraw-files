@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h6IWdR9SwTmDuoFh55dG-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="31" y="70" width="765" height="812" as="geometry" />
+          <mxGeometry x="49" y="70" width="765" height="812" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-10">
+          <mxGeometry x="-30" y="-40" width="795" height="852" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-10">
           <mxGeometry width="650" height="50" as="geometry" />
@@ -27,9 +30,6 @@
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-8" value="个人H5/小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-10">
           <mxGeometry x="500" y="10" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-10">
-          <mxGeometry x="-30" y="-30" width="795" height="842" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-80" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="240" width="700" height="410" as="geometry" />
