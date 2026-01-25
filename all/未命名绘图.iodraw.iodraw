@@ -148,7 +148,7 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-64" value="SOP节点服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
           <mxGeometry x="112.5" y="40" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-65" value="语言认证服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-65" value="任务审核服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-59">
           <mxGeometry x="112.5" y="80" width="87.5" height="30" as="geometry" />
         </mxCell>
       </root>
