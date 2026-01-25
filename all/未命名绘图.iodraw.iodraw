@@ -74,7 +74,7 @@
           <mxGeometry x="25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="240" width="220" height="130" as="geometry" />
+          <mxGeometry x="210" y="255" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-29" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-38">
           <mxGeometry width="220" height="130" as="geometry" />
@@ -93,6 +93,24 @@
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-37" value="语言认证服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-38">
           <mxGeometry x="112.5" y="80" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+          <mxGeometry width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-41" value="入驻服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+          <mxGeometry x="16.25" y="40" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-42" value="审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+          <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-43" value="账号服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+          <mxGeometry x="16.25" y="120" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-44" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;入驻服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+          <mxGeometry x="25" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
