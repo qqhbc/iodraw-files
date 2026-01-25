@@ -199,10 +199,10 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-94" value="缓存组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
           <mxGeometry x="120" y="10" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-95" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-95" value="搜索组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
           <mxGeometry x="230" y="10" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-96" value="地理位置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-96" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
           <mxGeometry x="340" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-97" value="配置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
