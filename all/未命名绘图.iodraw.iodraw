@@ -22,7 +22,7 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-6" value="供应商管理Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="68" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-8" value="供应商管理Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-8" value="H5/小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="68" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
