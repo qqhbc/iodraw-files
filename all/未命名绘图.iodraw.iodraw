@@ -166,6 +166,9 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-74" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-75">
           <mxGeometry x="16.25" y="85" width="87.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-77" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
