@@ -100,10 +100,10 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
           <mxGeometry width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-41" value="入驻服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-41" value="司导分服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
           <mxGeometry x="16.25" y="40" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-42" value="审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-42" value="奖牌服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
           <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-43" value="账号服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
