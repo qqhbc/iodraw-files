@@ -61,8 +61,11 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-20" value="入驻服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226.25" y="250" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-24" value="入驻服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-24" value="审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226.25" y="290" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-25" value="审核服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236.25" y="300" width="87.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
