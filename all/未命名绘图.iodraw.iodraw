@@ -67,7 +67,7 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-25" value="账号服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226.25" y="330" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-26" value="入驻服务域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-26" value="&lt;b&gt;入驻服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="210" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
