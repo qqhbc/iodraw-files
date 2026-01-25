@@ -187,6 +187,33 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-89" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-90">
           <mxGeometry x="660" y="10" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="670" width="730" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry width="650" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-93" value="认证授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="10" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-94" value="消息通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="120" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-95" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="230" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-96" value="地理位置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="340" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-97" value="配置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="450" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-98" value="第三方服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="560" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-99" value="基础服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-91">
+          <mxGeometry x="660" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
