@@ -106,7 +106,7 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-42" value="奖牌服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
           <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-43" value="账号服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-43" value="规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
           <mxGeometry x="16.25" y="120" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-44" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;成长服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
