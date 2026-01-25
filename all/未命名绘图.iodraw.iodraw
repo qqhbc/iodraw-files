@@ -97,24 +97,6 @@
         <mxCell id="h6IWdR9SwTmDuoFh55dG-44" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;成长服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-39">
           <mxGeometry x="25" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="440" width="120" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-67">
-          <mxGeometry width="120" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-69" value="司导服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-67">
-          <mxGeometry x="16.25" y="40" width="87.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-70" value="车辆服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-67">
-          <mxGeometry x="16.25" y="80" width="87.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-71" value="派遣服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-67">
-          <mxGeometry x="16.25" y="120" width="87.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h6IWdR9SwTmDuoFh55dG-72" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;司导服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-67">
-          <mxGeometry x="25" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-75" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="340" y="412.5" width="220" height="215" as="geometry" />
         </mxCell>
@@ -162,6 +144,21 @@
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-26" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;入驻服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-68" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-69" value="司导服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="480" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-70" value="车辆服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="520" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-71" value="派遣服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="560" width="87.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6IWdR9SwTmDuoFh55dG-72" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;司导服务域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="440" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
