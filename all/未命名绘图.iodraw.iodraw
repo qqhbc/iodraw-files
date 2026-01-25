@@ -113,7 +113,7 @@
           <mxGeometry x="25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="425" width="120" height="160" as="geometry" />
+          <mxGeometry x="50" y="425" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h6IWdR9SwTmDuoFh55dG-46">
           <mxGeometry width="120" height="160" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-60" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="425" width="220" height="130" as="geometry" />
+          <mxGeometry x="260" y="425" width="220" height="195" as="geometry" />
         </mxCell>
         <mxCell id="h6IWdR9SwTmDuoFh55dG-61" value="行程服务" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="276.25" y="465" width="87.5" height="30" as="geometry" />
